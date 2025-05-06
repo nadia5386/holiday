@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    height: 100vh;
+    background-color: rgb(61, 138, 226);
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+label {
+    display: block;
+    margin-top: 40px;
+    font-size:2rem;
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+  }
+  select {
+    width: 150px;
+    padding: 10px;
+    font-size: 14px;
+    display: block;
+    margin-bottom: 20px;
+    margin-left: 40%;
+    margin-top: 4px;
+    border-radius: 30px;
+    border-color: black;
+  }
+  .buttons{
+    padding: 30px;
+text-align: center
+
+  }
+  button{
+    background-color: rgb(38, 216, 38);
+    font-size: 15px;
+
+  }
